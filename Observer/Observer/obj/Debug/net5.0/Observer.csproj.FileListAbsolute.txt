@@ -1,0 +1,15 @@
+/Users/andreyipati/Projects/Observer/Observer/bin/Debug/net5.0/Observer.deps.json
+/Users/andreyipati/Projects/Observer/Observer/bin/Debug/net5.0/Observer.runtimeconfig.json
+/Users/andreyipati/Projects/Observer/Observer/bin/Debug/net5.0/Observer.runtimeconfig.dev.json
+/Users/andreyipati/Projects/Observer/Observer/bin/Debug/net5.0/Observer.dll
+/Users/andreyipati/Projects/Observer/Observer/bin/Debug/net5.0/ref/Observer.dll
+/Users/andreyipati/Projects/Observer/Observer/bin/Debug/net5.0/Observer.pdb
+/Users/andreyipati/Projects/Observer/Observer/obj/Debug/net5.0/Observer.csproj.AssemblyReference.cache
+/Users/andreyipati/Projects/Observer/Observer/obj/Debug/net5.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyipati/Projects/Observer/Observer/obj/Debug/net5.0/Observer.AssemblyInfoInputs.cache
+/Users/andreyipati/Projects/Observer/Observer/obj/Debug/net5.0/Observer.AssemblyInfo.cs
+/Users/andreyipati/Projects/Observer/Observer/obj/Debug/net5.0/Observer.csproj.CoreCompileInputs.cache
+/Users/andreyipati/Projects/Observer/Observer/obj/Debug/net5.0/Observer.dll
+/Users/andreyipati/Projects/Observer/Observer/obj/Debug/net5.0/ref/Observer.dll
+/Users/andreyipati/Projects/Observer/Observer/obj/Debug/net5.0/Observer.pdb
+/Users/andreyipati/Projects/Observer/Observer/obj/Debug/net5.0/Observer.genruntimeconfig.cache
