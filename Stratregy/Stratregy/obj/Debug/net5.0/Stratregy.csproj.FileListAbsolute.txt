@@ -1,0 +1,15 @@
+/Users/andreyipati/Projects/Stratregy/Stratregy/bin/Debug/net5.0/Stratregy.deps.json
+/Users/andreyipati/Projects/Stratregy/Stratregy/bin/Debug/net5.0/Stratregy.runtimeconfig.json
+/Users/andreyipati/Projects/Stratregy/Stratregy/bin/Debug/net5.0/Stratregy.runtimeconfig.dev.json
+/Users/andreyipati/Projects/Stratregy/Stratregy/bin/Debug/net5.0/Stratregy.dll
+/Users/andreyipati/Projects/Stratregy/Stratregy/bin/Debug/net5.0/ref/Stratregy.dll
+/Users/andreyipati/Projects/Stratregy/Stratregy/bin/Debug/net5.0/Stratregy.pdb
+/Users/andreyipati/Projects/Stratregy/Stratregy/obj/Debug/net5.0/Stratregy.csproj.AssemblyReference.cache
+/Users/andreyipati/Projects/Stratregy/Stratregy/obj/Debug/net5.0/Stratregy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyipati/Projects/Stratregy/Stratregy/obj/Debug/net5.0/Stratregy.AssemblyInfoInputs.cache
+/Users/andreyipati/Projects/Stratregy/Stratregy/obj/Debug/net5.0/Stratregy.AssemblyInfo.cs
+/Users/andreyipati/Projects/Stratregy/Stratregy/obj/Debug/net5.0/Stratregy.csproj.CoreCompileInputs.cache
+/Users/andreyipati/Projects/Stratregy/Stratregy/obj/Debug/net5.0/Stratregy.dll
+/Users/andreyipati/Projects/Stratregy/Stratregy/obj/Debug/net5.0/ref/Stratregy.dll
+/Users/andreyipati/Projects/Stratregy/Stratregy/obj/Debug/net5.0/Stratregy.pdb
+/Users/andreyipati/Projects/Stratregy/Stratregy/obj/Debug/net5.0/Stratregy.genruntimeconfig.cache
