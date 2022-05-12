@@ -1,0 +1,15 @@
+/Users/andreyipati/Projects/Memento/Memento/bin/Debug/net5.0/Memento.deps.json
+/Users/andreyipati/Projects/Memento/Memento/bin/Debug/net5.0/Memento.runtimeconfig.json
+/Users/andreyipati/Projects/Memento/Memento/bin/Debug/net5.0/Memento.runtimeconfig.dev.json
+/Users/andreyipati/Projects/Memento/Memento/bin/Debug/net5.0/Memento.dll
+/Users/andreyipati/Projects/Memento/Memento/bin/Debug/net5.0/ref/Memento.dll
+/Users/andreyipati/Projects/Memento/Memento/bin/Debug/net5.0/Memento.pdb
+/Users/andreyipati/Projects/Memento/Memento/obj/Debug/net5.0/Memento.csproj.AssemblyReference.cache
+/Users/andreyipati/Projects/Memento/Memento/obj/Debug/net5.0/Memento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyipati/Projects/Memento/Memento/obj/Debug/net5.0/Memento.AssemblyInfoInputs.cache
+/Users/andreyipati/Projects/Memento/Memento/obj/Debug/net5.0/Memento.AssemblyInfo.cs
+/Users/andreyipati/Projects/Memento/Memento/obj/Debug/net5.0/Memento.csproj.CoreCompileInputs.cache
+/Users/andreyipati/Projects/Memento/Memento/obj/Debug/net5.0/Memento.dll
+/Users/andreyipati/Projects/Memento/Memento/obj/Debug/net5.0/ref/Memento.dll
+/Users/andreyipati/Projects/Memento/Memento/obj/Debug/net5.0/Memento.pdb
+/Users/andreyipati/Projects/Memento/Memento/obj/Debug/net5.0/Memento.genruntimeconfig.cache
